@@ -22,4 +22,5 @@ public class ValidAnagram {
 
         System.out.println(isAnagram(s, t));
     }
+    
 }
